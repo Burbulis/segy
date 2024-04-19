@@ -1,6 +1,10 @@
+#ifndef   __SGY_WRITER__
+#define  __SGY_WRITER__
+
+#include "segy.hpp"
+
 namespace SGY
 {
-
     template
         <
         typename t_flip
@@ -48,3 +52,4 @@ namespace SGY
         }
     };
 }
+#endif
