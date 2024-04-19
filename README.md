@@ -1,0 +1,1 @@
+my segy library realisation.
